@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['0619874184']
+global.premium = ['0619874184']
+global.ownernomer = '0619874184'
 global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.botname = 'Kazumika'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
@@ -49,7 +49,7 @@ global.mess = {
     global.limitawal = {
     premium: "Infinity",
     free: 12,
-    monayawal: 1000
+    monayawal: 1000 
 }
    global.rpg = {
    darahawal: 100,
